@@ -1,0 +1,18 @@
+.containerInput {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  gap: 4px;
+}
+
+label {
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+input {
+  border: 1px solid black;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
